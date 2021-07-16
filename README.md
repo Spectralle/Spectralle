@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Spectralle / Vincent
-- 👀 I’m interested in video game development and gaming technology
-- 🌱 I’m currently learning Unity development and programming in C#
+- 👀 I’m very enthusiastic about video game development and gaming technology
+- 🌱 I've been making games in Unity as a solo indie dev for a few years, and continually learning new things!
+- ✨ I like RPGs and games that allow player freedom of choice the best
 
 <!---
 Spectralle/Spectralle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
