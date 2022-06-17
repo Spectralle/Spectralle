@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 ### :bowtie: Programming Languages
 
-![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=flat-square&logo=csharp))
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### :coffee: Other/Misc
 
