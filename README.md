@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vintay.medium.com)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://tempored-insanity.itch.io)
 
-### :bowtie: Programming Languages
+<h1 align=center>### :bowtie: Programming Languages
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
