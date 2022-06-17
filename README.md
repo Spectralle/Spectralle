@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/unreal-FFFFFF?style=for-the-badge&logo=unreal&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-00599C?style=for-the-badge&logo=gitColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-E34F26?style=for-the-badge&logo=githubColor=white)
+![Git](https://img.shields.io/badge/-Git-00599C?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-E34F26?style=for-the-badge&logo=github)
 ![Gimp](https://img.shields.io/badge/gimp-14354C?style=for-the-badge&logo=gimp&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-239120?style=for-the-badge&logo=trello&logoColor=white)
 </h1>
