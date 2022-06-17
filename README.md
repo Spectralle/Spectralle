@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 - ✨ I really like RPGs and games that allow player freedom of choice the best.
 
 > "Sometimes, I believe as many as 6 impossible things before breakfast!" - Alice
+> 
 > "That is an excellent practice." - Mad Hatter
 
 <h1 align=center>My Social Media:</h1>
