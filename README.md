@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align=center>Other</h1>
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=gitColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=githubColor=white)
 -------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>My latest Medium articles:</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
