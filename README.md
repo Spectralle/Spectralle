@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229684751&cover_image=true&theme=novatorem&bar_color=08a9c9&bar_color_cover=false)](https://github.com/spectralle/spotify-github-profile)
 
-<h1 align=center>My Social Media:</h1>
+<h1 align=center>Connect With Me</h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/tempored_insanity_studio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/tempinsastudio)
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vintay.medium.com)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://tempored-insanity.itch.io)
 
-<h1 align=center>### :bowtie: Programming Languages
+<h1 align=center>Programming Languages</h1>
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,10 +32,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)
 
-### :coffee: Other/Misc
+<h1 align=center>Other</h1>
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
 -------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>My latest Medium articles:</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
