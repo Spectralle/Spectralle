@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/tempinsastudio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-taylor-unitygamedev/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vintay.medium.com)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://tempored-insanity.itch.io)</h1>
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://tempored-insanity.itch.io)
+</h1>
 
 <h1 align=center>Programming Languages
 
@@ -31,12 +32,15 @@ You can click the Preview link to take a look at your changes.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)
+</h1>
 
 <h1 align=center>Other
 
 ![Git](https://img.shields.io/badge/-Git-00599C?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-00599C?style=for-the-badge&logo=github)</h1>
+![GitHub](https://img.shields.io/badge/-GitHub-E34F26?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/gimp-14354C?style=for-the-badge&logo=gimp&logoColor=white)
+</h1>
 
 <h1 align=center>My Latest Medium Articles:</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
