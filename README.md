@@ -32,10 +32,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)
 
-## 💡 Proficient Technologies 💡
-
 ### :bowtie: Programming Languages
 
+![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=flat-square&logo=csharp))
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
 
 ### :coffee: Other/Misc
