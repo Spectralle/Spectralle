@@ -31,6 +31,43 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)
+
+## 💡 Proficient Technologies 💡
+
+### :bowtie: Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=PHP)
+![Markdown](https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=Markdown)
+
+### :books: Libraries & Frameworks
+
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react)
+![NodeJS](https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js)
+![styled-components](https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat-square&logo=styledcomponents)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss)
+
+### :cherry_blossom: UI/UX
+
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma)
+![Ant](https://img.shields.io/badge/-Ant-0D1117?style=flat-square&logo=apache-ant)
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat-square&logo=adobe-photoshop)
+![Afinity Photo](https://img.shields.io/badge/-Affinity%20Photo-0D1117?style=flat-square&logo=affinityphoto)
+![Afiity Designer](https://img.shields.io/badge/-Affinity%20Designer-0D1117?style=flat-square&logo=affinitydesigner)
+![Illustrator](https://img.shields.io/badge/-Illustrator-0D1117?style=flat-square&logo=adobe-illustrator)
+
+### :coffee: Other/Misc
+
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker)
+![Netlify](https://img.shields.io/badge/-Netlify-0D1117?style=flat-square&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku)
 -------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>My latest Medium articles:</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
