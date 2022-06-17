@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229684751&cover_image=true&theme=novatorem&bar_color=08a9c9&bar_color_cover=false)](https://github.com/spectralle/spotify-github-profile)
 
+-------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/tempored_insanity_studio/)
@@ -36,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Git](https://img.shields.io/badge/-Git-00599C?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-00599C?style=for-the-badge&logo=github)</h1>
--------------------------------------------------------------------------------------------------------------------------
+
 <h1 align=center>My Latest Medium Articles:</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/1" alt="Recent Article 1">
