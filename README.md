@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 > 
 > "That is an excellent practice." - Mad Hatter
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229684751&cover_image=true&theme=novatorem&bar_color=08a9c9&bar_color_cover=false)](https://github.com/spectralle/spotify-github-profile)
+
 <h1 align=center>My Social Media:</h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/tempored_insanity_studio/)
@@ -29,7 +31,6 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)
-![gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl0O9y5CEjag6JpKZW%2Fgiphy.gif&f=1&nofb=1)
 -------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>My latest Medium articles:</h1>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
