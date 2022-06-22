@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 >
 > "That is an excellent practice." - Mad Hatter
 
-<h1 align=center>Currently listening to:
+
+<h1 align=center>Currently listening to:</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212ehu5sdn2djfzivc63tr6sa&cover_image=true&theme=novatorem&bar_color=7300ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=212ehu5sdn2djfzivc63tr6sa&redirect=true)
-</h1>
-  
+
 -------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>Connect With Me
 
