@@ -45,7 +45,8 @@ You can click the Preview link to take a look at your changes.
 ![Trello](https://img.shields.io/badge/trello-239120?style=for-the-badge&logo=trello&logoColor=white)
 </h1>
 
-<h1 align=center>My Latest Medium Articles:</h1>
+<h1 align=center>My Latest Medium Articles:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vintay/2" alt="Recent Article 2">
+</h1>
