@@ -7,11 +7,14 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @Spectralle.
 - 👀 I’m passionate about video game development and the future of gaming technology.
 - 🌱 I've been making games and things in Unity as a solo indie dev for 10+ years, and continually learning new things!
-- ✨ I really like RPGs and games that allow player freedom of choice the best.
+- ✨ I love RPGs and games that allow player freedom of choice.
+- 🎮 My main goal in life is to build a new world that allows people more freedom to do and be what they want.
 
 > "Sometimes, I believe as many as 6 impossible things before breakfast!" - Alice
 >
 > "That is an excellent practice." - Mad Hatter
+
+<h1>Currently listening to</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212ehu5sdn2djfzivc63tr6sa&cover_image=true&theme=novatorem&bar_color=7300ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=212ehu5sdn2djfzivc63tr6sa&redirect=true)
 
