@@ -3,7 +3,6 @@ Spectralle/Spectralle is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Github banner](https://user-images.githubusercontent.com/8663426/151212432-79caeeb6-2217-4d94-88c1-af72914208b9.png)
 <div align=center>- 👋 Hi, I’m @Spectralle.</div>
 <div align=center>- 👀 I’m passionate about video game development and the future of gaming technology.</div>
 <div align=center>- 🌱 I've been making games and things in Unity as a solo indie dev for 10+ years, and continually learning new things!</div>
@@ -14,11 +13,6 @@ You can click the Preview link to take a look at your changes.
 > "Sometimes, I believe as many as 6 impossible things before breakfast!" - Alice
 >
 > "That is an excellent practice." - Mad Hatter
-
--------------------------------------------------------------------------------------------------------------------------
-<h1 align=center>Currently listening to:</h1>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=212ehu5sdn2djfzivc63tr6sa&cover_image=true&theme=novatorem&bar_color=7300ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=212ehu5sdn2djfzivc63tr6sa&redirect=true)
 
 -------------------------------------------------------------------------------------------------------------------------
 <h1 align=center>Connect With Me
@@ -36,9 +30,6 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralle&theme=dark&layout=compact)](https://github.com/spectralle/github-readme-stats)
-</h1>
 
 <h1 align=center>Other
 
